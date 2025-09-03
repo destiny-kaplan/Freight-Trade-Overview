@@ -9,7 +9,7 @@ This project leverages the US Department of Transportation’s Freight Analysis 
 
 FAF5 Framework Dataset and FAF5 Metadata obtained from the US Department of Transportation
 
-US Department of Transportation. *Freight Analysis Framework (FAF5)*. https://www.cdc.gov/nchs/hus/sources-definitions/geographic-region.htm
+US Department of Transportation. *Freight Analysis Framework (FAF5)*. https://www.bts.gov/faf
 
 Region and Sub-Region obtained from the National Center for Health Statistics
 
